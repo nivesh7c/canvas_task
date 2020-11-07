@@ -4,8 +4,8 @@
   "description": "this is demo",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "build": "webpack"
+    "start": "node app.js"
+  
   },
   "author": "",
   "license": "ISC",
