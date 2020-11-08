@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'canva'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_7c31140412b749b8b9cacbfa9bc43ec8 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_4ce06463a0bb43d9a1430672557bcfd4 }}
         package: .
